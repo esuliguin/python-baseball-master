@@ -89,7 +89,7 @@ def team_score():
                 game['home_probable_pitcher']['name_display_roster']
                )
 
-#function to determine which feed to grab based on user input
+#function to determine which feed to grab based on user input.  Testing.  Testing!!
 
 def date_url(date):
     if date == "yesterday":
